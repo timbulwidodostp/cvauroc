@@ -1,5 +1,4 @@
-d 'DEA': Data envelopment analysis
+d 'cvauroc': Cross-validated Area Under the Curve for ROC Analysis after Predictive Modelling for Binary Outcomes Use cvauroc With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f cvauroc.ado
+f cvauroc.sthlp
