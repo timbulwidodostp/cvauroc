@@ -1,6 +1,8 @@
 # cvauroc
 Cross-validated Area Under the Curve for ROC Analysis after Predictive Modelling for Binary Outcomes Use cvauroc With STATA 18
 
+https://www.youtube.com/watch?v=jdLn1VV7GAI
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
